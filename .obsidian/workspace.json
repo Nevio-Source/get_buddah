@@ -186,6 +186,8 @@
   },
   "active": "38dc521a98f64467",
   "lastOpenFiles": [
+    "binary/get_buddah",
+    "binary",
     "get_buddah/bin/Release/net8.0/linux-x64/publish/get_buddah.pdb",
     "get_buddah/bin/Release/net8.0/linux-x64/publish/get_buddah",
     "get_buddah/bin/Release/net8.0/linux-x64/publish",
@@ -194,8 +196,6 @@
     "get_buddah/bin/Release/net8.0/linux-x64/get_buddah.runtimeconfig.json",
     "get_buddah/bin/Release/net8.0/linux-x64/get_buddah.deps.json",
     "get_buddah/bin/Release/net8.0/linux-x64/get_buddah",
-    "get_buddah/bin/Release/net8.0/linux-x64/libmscordbi.so",
-    "get_buddah/bin/Release/net8.0/linux-x64/libmscordaccore.so",
-    "get_buddah/bin/Release/net8.0/linux-x64/libhostfxr.so"
+    "get_buddah/bin/Release/net8.0/linux-x64/libmscordbi.so"
   ]
 }
