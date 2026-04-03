@@ -1,7 +1,7 @@
-# Get BUddah in your terminal
+# Get Buddah in your terminal
 
 ```
-       _=_
+       _=_	A simple programm that gives you a nice qwote each time your open your terminal
      q(-_-)p
      '_) (_`
      /__/  \
