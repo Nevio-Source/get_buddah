@@ -13,6 +13,24 @@
 ---
 # Installation
 
+- 1
+  clone repo
+  '''bash
+  git clone <url>
+  '''
+- 2
+  cd in to repo
+  '''bash
+  cd <folder>
+  '''
+- 3
+  run the instalation script
+  '''bash
+  ./install.sh
+  '''
+
+- 4 
+  enjoy buddah in your terminal
 
 ---
 
