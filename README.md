@@ -30,7 +30,7 @@
   ./install.sh
   ```
 
-- 4 
+4. 
   enjoy buddah in your terminal
 
 ---
