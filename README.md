@@ -17,22 +17,18 @@
 1.  clone repo
   ```bash
   git clone <url>
-  ```
-
-
-2.  cd in to repo
-  ```bash
-  cd <folder>
-  ```
-
-2.  run the installation script
-  ```bash
+  cd get_buddah
   ./install.sh
   ```
 
- 
-4.  enjoy buddah in your terminal
+ 2.  enjoy buddah in your terminal
 
+---
+# Uninstall
+
+```bash
+./uninstall.sh
+```
 ---
 
 #  Screen-Shots
