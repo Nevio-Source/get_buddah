@@ -28,7 +28,7 @@ if ! grep -q "get_buddah" "$BASHRC_FILE"; then
     echo "Füge Eintrag zu ~/.bashrc hinzu..."
     printf "%s" "$BASHRC_ENTRY" >> "$BASHRC_FILE"
 else
-    echo "Eintrag in ~/.bashrc existiert bereits. Überspringe."
+    echo ""
 fi
 
-echo "Fertig. Öffne ein neues Terminal oder führe 'source ~/.bashrc' aus."
+echo "all done :) you can now restart your terminal"

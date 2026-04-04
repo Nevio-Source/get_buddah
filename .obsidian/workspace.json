@@ -186,6 +186,7 @@
   "active": "38dc521a98f64467",
   "lastOpenFiles": [
     "uninstall.sh~",
+    "install.sh~",
     "assets/screenshot_1.png",
     "README.md",
     "assets",
@@ -196,7 +197,6 @@
     "get_buddah/bin/Release/net8.0/linux-x64/publish",
     "get_buddah/bin/Release/net8.0/linux-x64/get_buddah.pdb",
     "get_buddah/bin/Release/net8.0/linux-x64/get_buddah.dll",
-    "get_buddah/bin/Release/net8.0/linux-x64/get_buddah.runtimeconfig.json",
-    "get_buddah/bin/Release/net8.0/linux-x64/get_buddah.deps.json"
+    "get_buddah/bin/Release/net8.0/linux-x64/get_buddah.runtimeconfig.json"
   ]
 }

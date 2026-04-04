@@ -12,4 +12,4 @@ cp "$BASHRC" "$BASHRC.bak"
 sed -i '/# Get Buddah in your terminal/d' "$BASHRC"
 sed -i '/get_buddah/d' "$BASHRC"
 
-echo "Die Zeilen wurden entfernt. Backup: $BASHRC.bak"
+echo "everthing removed :) all done!"
