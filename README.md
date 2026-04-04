@@ -33,5 +33,5 @@
 
 #  Screen-Shots
 
-![screenshot_1.png](assets/screenshot_1.png])
+![screenshot_1.png](assets/screenshot_1.png)
 
