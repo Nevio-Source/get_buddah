@@ -16,7 +16,7 @@
 
 1.  clone repo
   ```bash
-  git clone <url>
+  git clone https://github.com/Nevio-Source/get_buddah.git
   cd get_buddah
   ./install.sh
   ```
@@ -33,5 +33,5 @@
 
 #  Screen-Shots
 
-![[screenshot_1.png]]
+![screenshot_1.png](assets/screenshot_1.png])
 
