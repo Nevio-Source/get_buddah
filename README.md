@@ -35,3 +35,19 @@
 
 ![screenshot_1.png](assets/screenshot_1.png)
 
+
+
+x + 200 = r
+
+r + x = 230
+
+
+
+230 -r = x
+
+230 - r + 200 = r | + r
+
+430  = 2r
+
+215 = r
+
