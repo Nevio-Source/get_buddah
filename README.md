@@ -33,7 +33,7 @@
 
 #  Screen-Shots
 
-![screenshot_1.png](assets/screenshot_1.png)
+![screenshot_terminal.png](assets/screenshot_terminal.png)
 
 
 
