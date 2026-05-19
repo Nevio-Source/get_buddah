@@ -67,3 +67,4 @@ Console.WriteLine(border);
 
 Console.ForegroundColor = ConsoleColor.DarkGreen;
 Console.WriteLine(buddah);
+Console.ResetColor();
