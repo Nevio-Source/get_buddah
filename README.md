@@ -1,5 +1,9 @@
 # Get Buddah in your terminal
 
+<span style="color:red">
+Bc the API is currently or forever not availibel this project dosent work so please dont install it right know it will not work
+</span>.
+
 ```
        _=_	A simple programm that gives you a nice qwote each time your open your terminal
      q(-_-)p
